@@ -1,0 +1,14 @@
+{
+  "name": "thumbnail-ai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'no build'",
+    "start": "echo 'no start'"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
